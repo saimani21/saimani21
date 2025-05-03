@@ -1,61 +1,36 @@
-<h1 align="center">Hi 👋, I'm Sai Mani Kumar</h1>
-<h3 align="center">Cybersecurity Enthusiast | AI Builder | Full-Stack Developer</h3>
-
----
-
-### 🚀 About Me
-- 🎓 Computer Science (Cybersecurity) @ National Forensic Sciences University
-- 🔐 Cybersecurity Intern @ C-DAC & MeitY (Ethical Hacking + Pentesting)
-- 🤖 AI & LLM Projects using GPT-4o, Whisper, and FastAPI
-- 🛠️ Full-Stack Developer | Python, JavaScript, MongoDB
-
----
-
-### 💡 Top Projects
-
-- **UniBuddy – AI Student Assistant**
-  > GPT-4o, Whisper API, React, MongoDB  
-  AI chatbot with class scheduling, voice input, emotion detection, and OCR-based Q&A.
-
-- **Course Management System**
-  > FastAPI, MongoDB, JWT  
-  Role-based platform for student/course/fee tracking.
-
-- **Face Recognition Attendance**
-  > Python, OpenCV, Flask  
-  Real-time face detection and attendance system using Firebase.
-
----
-
-### 🧠 Skills
-`Python` `FastAPI` `MongoDB` `Java` `Docker` `Network Security` `GPT-4o` `Whisper`
-
----
-
-### 📈 GitHub Stats
-
+<!-- Cyberpunk Header -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimani21&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saimani21&theme=tokyonight" height="165" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a1a&height=140&section=header&text=Sai%20Mani%20Kumar%20👨‍💻&fontSize=40&fontColor=00ffcc&fontAlignY=35" />
 </p>
 
----
-
-### 📫 Connect with Me
-
+<h3 align="center">👾 Cybersecurity Intern | 🧠 AI Builder | 💻 Full-Stack Dev</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sai-mani-kumar-pemmanaboina-1530b4267/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
+  <a href="https://github.com/saimani21" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-saimani21-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:psmk212004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail" />
+  <a href="mailto:psmk212004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-psmk212004@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/saimani21">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github" />
+  <a href="https://www.linkedin.com/in/sai-mani-kumar-pemmanaboina-1530b4267/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sai%20Mani%20Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-> ⚡ *"Building smarter, safer systems with code."*
+## 🧠 About Me
+- 🎓 Cybersecurity Student @ **National Forensic Sciences University**
+- 💼 Intern @ **C-DAC & MeitY** – Ethical Hacking & Penetration Testing
+- 🔐 Focused on **LLMs**, **AI Agents**, and **Network Security**
+- 💡 Building tools that think, and systems that secure
 
+---
+
+## 🛠️ Skills Snapshot
+
+```bash
+> Languages      : Python · Java · SQL · Bash
+> Cyber Tools    : Nmap · Metasploit · Wireshark · Snort
+> AI Stack       : GPT-4o · Whisper API · FastAPI · TensorFlow
+> Dev Tools      : Docker · MongoDB · Firebase · GitHub Actions
+> Web Stack      : HTML · CSS · JavaScript · React · Flask
