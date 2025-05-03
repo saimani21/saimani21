@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a1a&height=140&section=header&text=Sai%20Mani%20Kumar%20👨‍💻&fontSize=40&fontColor=00ffcc&fontAlignY=35" />
 </p>
 
-<h3 align="center">👾 Cybersecurity Intern | 🧠 AI Builder | 💻 Full-Stack Dev</h3>
+<h3 align="center">👾 Cybersecurity Enthusiast | 🧠 AI Builder | 💻 Full-Stack Dev</h3>
 <p align="center">
   <a href="https://github.com/saimani21" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-saimani21-181717?style=flat-square&logo=github&logoColor=white" />
