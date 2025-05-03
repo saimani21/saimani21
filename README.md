@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 - 🎓 Cybersecurity Student @ **National Forensic Sciences University**
-- 💼 Intern @ **C-DAC & MeitY** – Ethical Hacking & Penetration Testing
+- 💼 Ex-Intern @ **C-DAC & MeitY** – Ethical Hacking & Penetration Testing
 - 🔐 Focused on **LLMs**, **AI Agents**, and **Network Security**
 - 💡 Building tools that think, and systems that secure
 
