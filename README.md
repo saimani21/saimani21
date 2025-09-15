@@ -1,3 +1,23 @@
+
+<!-- Cyberpunk Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a1a&height=140&section=header&text=Sai%20Mani%20Kumar%20👨‍💻&fontSize=40&fontColor=00ffcc&fontAlignY=35" />
+</p>
+
+<h3 align="center">👾 Cybersecurity Enthusiast | 🧠 AI Builder | 💻 Full-Stack Dev</h3>
+<p align="center">
+  <a href="https://github.com/saimani21" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-saimani21-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:psmk212004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-psmk212004@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sai-mani-kumar-pemmanaboina-1530b4267/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sai%20Mani%20Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
 # Hi there! I'm Sai Mani Kumar 👋
 
 **🛡️ Cybersecurity Enthusiast | 🧠 AI Builder | 💻 Full-Stack Developer**
@@ -109,6 +129,7 @@ Intelligent scraping tool that collects and verifies contact information with **
 ## 🏆 Certifications & Achievements
 
 ### 🎓 Professional Certifications
+- 🥇 **LLM Engineering: Master AI, Large Language Models & Agents
 - 🥇 **Google Cloud**: Introduction to Generative AI
 - 🤖 **Google**: AI Essentials  
 - 🛡️ **Google**: Connect and Protect - Networks and Network Security  
@@ -124,3 +145,17 @@ Intelligent scraping tool that collects and verifies contact information with **
 
 ## 📈 Current Focus Areas
 
+
+### 🔬 Research & Development Pipeline
+
+**Current Projects:**
+- 🧪 **AI Forensics Research**: Investigating adversarial attack patterns in fine-tuned language models
+- 🤖 **Multi-Agent Orchestration**: Building intelligent systems with contextual decision-making capabilities  
+- 🛡️ **LLM Security Analysis**: Evaluating robustness of small language models against sophisticated attacks
+- 🚀 **SMB Automation Suite**: Developing AI-driven tools for enhanced business visibility and lead generation
+
+**Active Learning Areas:**
+- 📊 Advanced RAG architectures with vector databases
+- 🔍 Digital forensics techniques for AI model analysis  
+- 🌐 Network security automation and threat detection
+- 💼 Startup scaling strategies and AI product development
